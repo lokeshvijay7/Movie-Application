@@ -7,6 +7,8 @@ import Main from "./Main";
 
 const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=372dedff";
 
+// API = "https://www.omdbapi.com/?i=tt3896198&apikey=372dedff";
+
 const App = () => {
   const [search, setSearch] = useState("");
   const [movies, setMovies] = useState([]);
