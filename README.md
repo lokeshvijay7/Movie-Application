@@ -6,11 +6,11 @@ A responsive movie browsing web app built using React.js and the Movie API. It d
 
 ## Features
 
-- 🔑 Uses external Movie API with personal API key
-- 🎞️ Displays trending or latest movies on home screen
-- 🔍 Built-in search bar to find movies by title
-- 🖼️ Shows movie poster, title, release date, and rating
-- 💻 Responsive design for mobile and desktop
+- Uses external Movie API with personal API key
+- Displays trending or latest movies on home screen
+- Built-in search bar to find movies by title
+- Shows movie poster, title, release date, and rating
+- Responsive design for mobile and desktop
 
 ---
 
