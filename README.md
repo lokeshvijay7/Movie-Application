@@ -1,10 +1,10 @@
-# 🎬 Movie Explorer App
+# Movie Explorer App
 
 A responsive movie browsing web app built using React.js and the Movie API. It displays a list of trending movies and allows users to search for any movie by title using the integrated search bar.
 
 ---
 
-## 📌 Features
+## Features
 
 - 🔑 Uses external Movie API with personal API key
 - 🎞️ Displays trending or latest movies on home screen
@@ -14,7 +14,7 @@ A responsive movie browsing web app built using React.js and the Movie API. It d
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, HTML5, CSS3
 - **API:** Movie DB API (TMDB or OMDB)
