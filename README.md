@@ -21,5 +21,6 @@ A responsive movie browsing web app built using React.js and the Movie API. It d
 - **Other:** Axios for API calls, React Hooks, CSS Modules
 
 ---
-
-
+## Developed By
+    Lokesh K V
+    GitHub | LinkedIn
